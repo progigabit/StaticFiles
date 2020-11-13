@@ -5052,7 +5052,7 @@ screen and (max-height:300px) {
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(owl.video.play.png) no-repeat;
+    background: url(owl.video.play.png?raw=true?raw=true) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -5436,19 +5436,19 @@ screen and (max-height:300px) {
 }
 
 .YTPOverlay.raster {
-    background: url(images/raster.png)
+    background: url(images/raster.png?raw=true?raw=true)
 }
 
 .YTPOverlay.raster.retina {
-    background: url(images/raster@2x.png)
+    background: url(images/raster@2x.png?raw=true?raw=true)
 }
 
 .YTPOverlay.raster-dot {
-    background: url(images/raster_dot.png)
+    background: url(images/raster_dot.png?raw=true?raw=true)
 }
 
 .YTPOverlay.raster-dot.retina {
-    background: url(images/raster_dot@2x.png)
+    background: url(images/raster_dot@2x.png?raw=true?raw=true)
 }
 
 .mb_YTPBar .simpleSlider {

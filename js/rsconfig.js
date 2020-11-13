@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
     "use strict";
     jQuery("#slider1").revolution({
         sliderType: "standard",
-        jsFileLocation: "../assets/revolution/js/",
+        jsFileLocation: "https://rawcdn.githack.com/progigabit/StaticFiles/39a97e5b69e350e150e5a689e8a9fdaccccbc35a/revolution/js",
         sliderLayout: "auto",
         delay: 99000,/* sets the Slider's default timeline */
         disableProgressBar: "on",

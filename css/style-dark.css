@@ -278,7 +278,7 @@ table,
 }
 
 .testimonial-panel .testimonial--icon {
-	background: url("../images/testimonial/icon5.png") no-repeat center;
+	background: url("../images/testimonial/icon5.png?raw=true?raw=true") no-repeat center;
 }
 
 .menu-5 .dish-panel {
@@ -302,12 +302,12 @@ table,
 
 .divider--shape-14up,
 .divider--shape-1down {
-	background: url(../images/background/shapes/arrow-dark.png) center no-repeat;
+	background: url(https://rawcdn.githack.com/progigabit/StaticFiles/39a97e5b69e350e150e5a689e8a9fdaccccbc35a/images/background/shapes/arrow-dark.png?raw=true?raw=true) center no-repeat;
 }
 
 .divider--shape-14down,
 .divider--shape-1up {
-	background: url(../images/background/shapes/arrow-dark2.png) center no-repeat;
+	background: url(https://rawcdn.githack.com/progigabit/StaticFiles/39a97e5b69e350e150e5a689e8a9fdaccccbc35a/images/background/shapes/arrow-dark2.png?raw=true?raw=true) center no-repeat;
 }
 
 .blockquote-1 {

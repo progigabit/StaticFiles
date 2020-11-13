@@ -260,8 +260,8 @@
     html_prepend: '<div class="gmap_marker">',
     html_append: '</div>',
     icon: {
-      image: "http://www.google.com/mapfiles/marker.png",
-      shadow: "http://www.google.com/mapfiles/shadow50.png",
+      image: "http://www.google.com/mapfiles/marker.png?raw=true?raw=true",
+      shadow: "http://www.google.com/mapfiles/shadow50.png?raw=true?raw=true",
       iconsize: [20, 34],
       shadowsize: [37, 34],
       iconanchor: [9, 34],
