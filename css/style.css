@@ -151,13 +151,13 @@ html {
 }
 
 html {
-	font-size: 13px;
+	font-size: 12px;
 }
 
 body {
 	background-color: #ffffff;
 	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	color: #a5a5a5;
 	line-height: 1.5;
@@ -296,7 +296,7 @@ h6 {
 
 p {
 	color: #a5a5a5;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 22px;
 }
@@ -1147,7 +1147,7 @@ blockquot {
 .quote-author {
 	font-family: 'Kaushan Script', cursive;
 	display: block;
-	font-size: 13px;
+	font-size: 12px;
 	font-style: normal;
 	font-weight: 600;
 	line-height: 1;
@@ -1570,7 +1570,7 @@ blockquot {
 	font-family: 'Raleway', sans-serif;
 	position: relative;
 	z-index: 2;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	text-transform: uppercase;
 	text-align: center;
@@ -1766,7 +1766,7 @@ blockquot {
 
 .btn--video {
 	color: #ffffff;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 600;
 	line-height: 51px;
 	text-transform: uppercase;
@@ -1947,7 +1947,7 @@ blockquot {
 \*------------------------------------*/
 .form-control {
 	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 500;
 	line-height: 49px;
 	border: 1px solid #eee;
@@ -2023,7 +2023,7 @@ blockquot {
 }
 
 .reservation-link {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	text-transform: uppercase;
 }
@@ -2074,13 +2074,13 @@ blockquot {
 \*------------------------------------*/
 ul.list {
 	padding: 0;
-	font-size: 13px;
+	font-size: 12px;
 	list-style-type: none;
 	color: #7f7f7f;
 }
 
 ul.list li {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 30px;
 }
@@ -2098,7 +2098,7 @@ ul.number-list li {
 }
 
 ul.number-list li span {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	line-height: 30px;
 	margin-right: 15px;
@@ -2285,7 +2285,7 @@ ul.dot-list li i {
 }
 
 .tabs .tab--details li {
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .tabs .tab--logos li {
@@ -2665,7 +2665,7 @@ label.error {
 }
 
 .range-slider p {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 1;
 }
@@ -2970,7 +2970,7 @@ table tbody tr td {
 
 table tbody tr td,
 table tbody tr td {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 600;
 	line-height: 26px;
 	color: #9b9b9b;
@@ -3400,7 +3400,7 @@ table tbody tr td {
 	height: 29px;
 	background-color: #333333;
 	color: #ffffff;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	line-height: 29px;
 	text-transform: uppercase;
@@ -3461,7 +3461,7 @@ table tbody tr td {
 	top: 50px;
 	position: absolute;
 	right: 50px;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #ffffff;
@@ -3782,7 +3782,7 @@ table tbody tr td {
 .module-active .module-hamburger .module-widgets .module-cancel {
 	line-height: 29px;
 	background-color: #c59d5f;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
 	padding: 0 8px;
@@ -3802,7 +3802,7 @@ table tbody tr td {
 	margin-top: 37px;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	line-height: 22px;
 	text-transform: uppercase;
@@ -3871,7 +3871,7 @@ table tbody tr td {
 	line-height: 29px;
 	background-color: #333333;
 	color: #ffffff;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 37px;
@@ -4336,7 +4336,7 @@ table tbody tr td {
 }
 
 .navbar-nav > li > a {
-	font-size: 13px;
+	font-size: 12px;
 	text-transform: uppercase;
 	font-weight: 800;
 	line-height: 100px;
@@ -4387,7 +4387,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
 ul.dropdown-menu > li.has-dropdown > a:before {
 	font-family: fontawesome;
 	content: "\f105";
-	font-size: 13px;
+	font-size: 12px;
 	position: absolute;
 	right: 25px;
 }
@@ -4806,7 +4806,7 @@ Header Customaztion
 
 .info-reservation .info-reservation-data p {
 	color: #bfbfbf;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	letter-spacing: 0.26px;
 	margin-bottom: 9px;
@@ -4842,7 +4842,7 @@ Header Customaztion
 
 .info-contact .info-contact-data p {
 	color: #bfbfbf;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	letter-spacing: 0.26px;
 	margin-bottom: 9px;
@@ -5141,7 +5141,7 @@ ul.dropdown-menu li a,
  li.dropdown-submenu > a:after {
 	font-family: fontawesome;
 	content: "\f105";
-	font-size: 13px;
+	font-size: 12px;
 	position: absolute;
 	right: 10px;
 }
@@ -5166,7 +5166,7 @@ li.dropdown-submenu.open > ul > li > a {
  li.dropdown-submenu.open > a:hover:after {
 	font-family: fontawesome;
 	content: "\f107";
-	font-size: 13px;
+	font-size: 12px;
 	position: absolute;
 	right: 10px;
 }
@@ -5366,7 +5366,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
  li.dropdown-submenu > a:after {
 	font-family: fontawesome;
 	content: "\f105";
-	font-size: 13px;
+	font-size: 12px;
 	position: absolute;
 	right: 0;
 }
@@ -5398,7 +5398,7 @@ li.dropdown-submenu.open > ul > li > a {
  li.dropdown-submenu.open > a:hover:after {
 	font-family: fontawesome;
 	content: "\f107";
-	font-size: 13px;
+	font-size: 12px;
 	position: absolute;
 	right: 0;
 }
@@ -5643,7 +5643,7 @@ ul.dropdown-menu li a,
 	padding: 0;
 	border-bottom: 1px solid rgba(127, 127, 127, 0.1);
 	display: block;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	-o-transition: all 0.35s;
 	-moz-transition: all 0.35s;
@@ -5657,7 +5657,7 @@ ul.mega-menu li ul li span {
 	color: #c59d5f;
 	padding: 0;
 	display: block;
-	font-size: 13px;
+	font-size: 12px;
 	line-height: 39px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -5880,7 +5880,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .hamburger-panel .copywright {
 	text-align: center;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	text-transform: uppercase;
 	color: #a5a5a5;
@@ -6047,7 +6047,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .slider-portfolio .slide--subheadline {
-	font-size: 13px;
+	font-size: 12px;
 	color: #9b9b9b;
 	font-family: 'Raleway', sans-serif;
 }
@@ -6062,7 +6062,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .slider-portfolio .slide--action a {
 	color: #1bb580;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	line-height: 20px;
 	text-transform: uppercase;
@@ -6226,7 +6226,7 @@ a.next-section {
 	bottom: 0;
 	display: inline-block;
 	color: #ffffff;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	margin-left: -50px;
 }
@@ -6462,7 +6462,7 @@ a.next-section:hover {
 .member .member-info h6 {
 	font-family: 'Raleway', sans-serif;
 	color: #9b9b9b;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 1;
 	margin-bottom: 0;
@@ -6672,7 +6672,7 @@ a.next-section:hover {
 
 .testimonial--author h4 {
 	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	line-height: 1.3;
 	color: #a5a5a5;
 	font-weight: 500;
@@ -7084,13 +7084,13 @@ a.next-section:hover {
 }
 
 .pricing .pricing--heading span.time {
-	font-size: 13px;
+	font-size: 12px;
 	color: #ffffff;
 }
 
 .pricing .pricing--heading .pricing--desc {
 	color: #f9f9f9;
-	font-size: 13px;
+	font-size: 12px;
 	line-height: 21px;
 }
 
@@ -7355,7 +7355,7 @@ a.next-section:hover {
 
 .entry--share .share--title {
 	color: #222222;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	line-height: 1;
 	text-transform: uppercase;
@@ -7557,7 +7557,7 @@ a.next-section:hover {
 .entry-related .entry--meta {
 	color: #616161;
 	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 1;
 }
@@ -7620,7 +7620,7 @@ ul.comments-list .comment-body .comment p {
 }
 
 ul.comments-list .comment-body .comment a.reply {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 0.26px;
@@ -7717,7 +7717,7 @@ ul.comments-list ul.comment-children {
 }
 
 .entry-prev-next a {
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .entry-prev-next .entry-prev {
@@ -7884,7 +7884,7 @@ td.cart-product-quantity {
 
 .cart-table .cart-product-action .btn {
 	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	margin-left: 10px;
 	line-height: 39px;
@@ -7950,7 +7950,7 @@ td.cart-product-quantity {
 .cart-total-amount ul li {
 	font-family: 'Raleway', sans-serif;
 	color: #c59d5f;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	line-height: 36px;
 	text-transform: capitalize;
@@ -7958,7 +7958,7 @@ td.cart-product-quantity {
 
 .cart-total-amount ul li span {
 	color: #959595;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 36px;
 }
@@ -8001,7 +8001,7 @@ td.cart-product-quantity {
 
 .cart-shiping i {
 	position: absolute;
-	font-size: 13px;
+	font-size: 12px;
 	right: 25px;
 	top: 12px;
 	z-index: 1;
@@ -8013,7 +8013,7 @@ td.cart-product-quantity {
 .cart-shiping .btn {
 	line-height: 39px;
 	height: 42px;
-	font-size: 13px;
+	font-size: 12px;
 	width: auto;
 	padding: 0 17px;
 	border-radius: 0;
@@ -8130,7 +8130,7 @@ td.cart-product-quantity {
 	text-align: center;
 	color: #c59d5f;
 	border: 2px solid #c59d5f;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 700;
 	line-height: 51px;
 	text-transform: uppercase;
@@ -8156,7 +8156,7 @@ td.cart-product-quantity {
 
 .product-item .product--content .product--cat {
 	font-family: 'Great Vibes', cursive;
-	font-size: 13px;
+	font-size: 12px;
 	font-style: italic;
 	line-height: 1;
 	margin-bottom: 12px;
@@ -8352,7 +8352,7 @@ td.cart-product-quantity {
 
 .shop-product .product-review span {
 	color: #9b9b9b;
-	font-size: 13px;
+	font-size: 12px;
 	line-height: 1;
 	font-weight: 400;
 }
@@ -8367,7 +8367,7 @@ td.cart-product-quantity {
 
 .shop-product .product-desc p {
 	color: #959595;
-	font-size: 13px;
+	font-size: 12px;
 	line-height: 22px;
 	margin-bottom: 25px;
 }
@@ -8391,14 +8391,14 @@ td.cart-product-quantity {
 .shop-product .product-details ul li {
 	line-height: 26px;
 	color: #c59d5f;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	text-transform: capitalize;
 }
 
 .shop-product .product-details ul li span {
 	color: #9b9b9b;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 }
 
@@ -8509,7 +8509,7 @@ td.cart-product-quantity {
 	border: 1px solid #eee;
 	border-radius: 1px;
 	color: #9b9b9b;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 500;
 	line-height: 22px;
 	font-style: italic;
@@ -8567,7 +8567,7 @@ td.cart-product-quantity {
 }
 
 .product-tabs .tab-content h5 {
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .product-review li {
@@ -8579,7 +8579,7 @@ td.cart-product-quantity {
 .product-review li h6 {
 	margin-bottom: 0;
 	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .product-review li .review-date {
@@ -8645,7 +8645,7 @@ td.cart-product-quantity {
 	border-radius: 1px;
 	color: #9b9b9b;
 	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 35px;
 	padding-left: 10px;
@@ -8760,7 +8760,7 @@ td.cart-product-quantity {
 
 .contact--info a.link--styled {
 	color: #c59d5f;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	line-height: 1;
 	text-transform: uppercase;
@@ -8853,7 +8853,7 @@ td.cart-product-quantity {
 
 .widget-categories ul li a {
 	color: #333333;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 600;
 	line-height: 40px;
 	position: relative;
@@ -8898,7 +8898,7 @@ td.cart-product-quantity {
 	border: 1px solid #ececec;
 	background-color: transparent;
 	color: #9b9b9b;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 1;
 	margin-right: 4px;
@@ -8994,7 +8994,7 @@ td.cart-product-quantity {
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	color: #9e9e9e;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 49px;
 	height: 49px;
@@ -9137,7 +9137,7 @@ td.cart-product-quantity {
 }
 
 .widget-filter p {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	line-height: 1;
 	margin-bottom: 19px;
@@ -9405,7 +9405,7 @@ footer .widget-instagram .insta-hover i {
 .widget-tweets ul li p.tweet {
 	color: #9b9b9b;
 	font-weight: 600;
-	font-size: 13px;
+	font-size: 12px;
 	line-height: 22px;
 	margin-bottom: 5px;
 }
@@ -9485,7 +9485,7 @@ footer {
 }
 
 .footer--widget-content a {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	line-height: 49px;
 	text-transform: uppercase;
@@ -9617,7 +9617,7 @@ footer {
 }
 
 .footer--copyright span {
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .footer--copyright a {
@@ -10126,7 +10126,7 @@ footer .text-right,
 
 .skills .progress-title .title {
 	color: #282828;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	line-height: 1;
 	margin-bottom: 10px;
@@ -10881,7 +10881,7 @@ footer .text-right,
 .number-panel .number--content h6 {
 	color: #c59d5f;
 	font-family: 'Great Vibes', cursive;
-	font-size: 13px;
+	font-size: 12px;
 	font-style: italic;
 	line-height: 1;
 	margin-bottom: 14px;
@@ -10907,7 +10907,7 @@ footer .text-right,
 
 .number-panel .number--content a {
 	color: #c59d5f;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 600;
 	line-height: 1;
 	padding-bottom: 4px;
@@ -11083,7 +11083,7 @@ footer .text-right,
 }
 
 .header-fixed-side .navbar-nav a {
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 800;
 	font-family: 'Raleway', sans-serif;
 	line-height: 39px;
@@ -11149,7 +11149,7 @@ footer .text-right,
 
 .header-fixed-side .header--panel .header--panel-copyright {
 	text-align: left;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	color: #9b9b9b;
 }
@@ -11810,7 +11810,7 @@ footer .text-right,
 	background-color: #c59d5f;
 	color: #ffffff;
 	font-weight: 700;
-	font-size: 13px;
+	font-size: 12px;
 	border-radius: 3px;
 	text-transform: uppercase;
 }
@@ -12024,7 +12024,7 @@ section.menu-5 .dishes-bg {
 }
 
 .menu-5 .dish-panel .dish--desc {
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .menu-5 .dish--img {
